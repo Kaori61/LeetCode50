@@ -1,5 +1,3 @@
---Input 1:
-
 WITH numbers AS (
     SELECT num
     FROM MyNumbers
